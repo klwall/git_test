@@ -1,0 +1,1 @@
+This is Kathryn's first git project!
